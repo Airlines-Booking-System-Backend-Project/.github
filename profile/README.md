@@ -8,7 +8,7 @@ Each microservice is developed using **Node.js**, **Express.js**, **PostgreSQL**
 
 ## 🧩 Microservices Overview
 
-### 1. ✈️ [Flights-Service](https://github.com/<your-org>/Flights-Service)
+### 1. ✈️ [Flights-Service](https://github.com/Airlines-Booking-System-Backend-Project/Flights-Service)
 
 Handles all data related to:
 
@@ -26,7 +26,7 @@ Handles all data related to:
 
 ---
 
-### 2. 🎟️ [Flight-Booking-Service](https://github.com/<your-org>/Flight-Booking-Service)
+### 2. 🎟️ [Flight-Booking-Service](https://github.com/Airlines-Booking-System-Backend-Project/Flight-Booking-Service)
 
 Responsible for:
 
